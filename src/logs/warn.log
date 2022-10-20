@@ -612,3 +612,4 @@
 [2022-10-20T15:28:22.903] [WARN] development - Route: /favicon.ico Method: GET No Implemented
 [2022-10-20T15:28:50.734] [WARN] development - Route: /favicon.ico Method: GET No Implemented
 [2022-10-20T15:29:03.902] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T20:49:35.556] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'toJSON')
