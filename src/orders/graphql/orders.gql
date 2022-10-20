@@ -1,0 +1,44 @@
+type product {
+  id: ID!,
+  title:String,
+  price:Int,
+  thumbnail:String,
+  description:String,
+  category:String,
+  quantity:Int
+}
+
+type order {
+  id: ID!,
+  products: [product],
+  date:String,
+  status:String,
+  email:String,
+  shippingAddress:String,
+  total:Int
+}
+
+type Query{
+  getOrderById(id:ID) : order
+}
+
+input productPayload{
+  id: ID!,
+  title:String,
+  price:Int,
+  thumbnail:String,
+  description:String,
+  category:String,
+  quantity:Int
+}
+
+input userPayload {
+  email:String!,
+  currentCartId:Int,
+  address:String
+}
+
+type Mutation{
+  createNewOrder(email:String, products:[productPayload],shippingAddress:String,total:Int,user:userPayload) : ID
+  deleteOrderById(id:ID) : String
+}

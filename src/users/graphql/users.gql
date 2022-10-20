@@ -1,0 +1,30 @@
+type user {
+  email:ID!,
+  name:String,
+  surname:String,
+  tel:Int,
+  password:String,
+  currentCartId:Int,
+  address:String,
+  admin:Boolean
+}
+
+type Query {
+  getAllUsers: [user]
+  findUser(email:ID) : user
+}
+
+input userPayload {
+  email:ID!,
+  name:String,
+  surname:String,
+  tel:Int,
+  password:String,
+  address:String,
+  admin:Boolean
+}
+
+type Mutation {
+  addNewUser(args:userPayload) : user
+  updateCurrentCartId(email:String, idCart:Int) : String
+}

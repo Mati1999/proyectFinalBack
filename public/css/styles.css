@@ -1,0 +1,206 @@
+body {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+
+.formInput {
+    width: 45%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    font-weight: 600;
+}
+
+.formInput input {
+    width: 65%;
+    height: 2.5rem;
+    border: 1px solid black;
+    border-radius: 1rem;
+}
+
+.btnSubmit {
+    color: black;
+    margin-top: 10px;
+    padding: 10px 30px;
+    border-radius: 10px;
+    font-weight: 600;
+    background-color: rgb(0, 255, 0);
+    border: none;
+}
+
+.btnSubmit:hover {
+    color: black;
+    background-color: rgb(138, 255, 138);
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(233, 3, 34);
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+a:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(240, 85, 106);
+}
+
+.links {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 48px 0px;
+}
+
+.productsContainer {
+    margin-top: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: rgb(88, 188, 255);
+    border-radius: 1rem;
+}
+
+.productContainerTitles div {
+    font-weight: 600;
+}
+
+.productContainer {
+    display: flex;
+    width: 85%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0px;
+    border-top: 1px solid white;
+}
+
+.productContainer div {
+    width: 20%;
+}
+
+.productContainer .img {
+    width: 80%;
+}
+
+.navBar {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.options {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.options li {
+    width: 30%;
+}
+
+#messagesContainer {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.messageContainer {
+    width: 85%;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    border-top: 1px white solid;
+    align-items: center;
+}
+
+.green {
+    color: rgb(0, 26, 255);
+    font-weight: 900;
+}
+
+.brown {
+    color: brown;
+}
+
+.formQuantity {
+    width: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.formQuantity button {
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+    background-color: rgb(0, 255, 0);
+    padding: 1rem;
+    border-radius: 1rem;
+    border: none;
+    width: 3rem;
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formQuantity button:hover {
+    color: rgb(0, 0, 0);
+    background-color: rgb(116, 255, 135);
+}
+
+.quantityInput {
+    width: 50px;
+    display: flex;
+}
+
+.btnAddProduct {
+    color: white;
+    margin-top: 10px;
+    padding: 2px 10px;
+    border-radius: 10px;
+    background-color: green;
+}
+
+.irAProductos {
+    font-weight: 600;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    background-color: rgb(0, 255, 0);
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.irAProductos:hover {
+    color: rgb(0, 0, 0);
+    background-color: rgb(116, 255, 135);
+}
+
+.contenedorCarrito {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#userMessageForm {
+    margin: 1rem 0;
+}

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Backend</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+  <link href="/css/styles.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+  <div class="navBar">
+    <h1>Hola <%=name%>!</h1>
+    <a href="/logout"> Deslogearse </a>
+  </div>
+  <% if (products) { %>
+    <div class="container">
+      <h2 class="my-5 py-5">LISTA DE PRODUCTOS</h2>
+      <div class="productsContainer">
+        <div class="productContainer">
+          <div>Nombre</div>
+          <div>Precio</div>
+          <div>Imagen</div>
+          <div>Cantidad</div>
+        </div>
+        <% for(let i=0; i < products.length; i++) { %>
+          <div class="productContainer">
+            <div>
+              <%=products[i].title %>
+            </div>
+            <div>
+              <%=products[i].price %>
+            </div>
+            <div>
+              <img src="<%=products[i].thumbnail %>" alt="<%=products[i].title %>" class="img">
+            </div>
+            <div id="product<%=products[i].id%>">
+              <form class="formQuantity" action="/cart/<%=products[i].id%>" method="post">
+                <input type="number" name="quantity" class="quantityInput">
+                <button type="submit" class="btnAddProduct"> + </button>
+              </form>
+            </div>
+          </div>
+          <% } %>
+      </div>
+    </div>
+    <% } else { %>
+      <h2>No hay productos</h2>
+      <% } %>
+        <% if (admin===true){ %>
+          <h2>FORMULARIO PARA AÑADIR PRODUCTOS</h2>
+          <form action="/products" method="post">
+            <div class="formInput">
+              <label for="title"> Nombre </label>
+              <input type="text" id="title" name="title">
+            </div>
+            <div class="formInput">
+              <label for="price"> Precio </label>
+              <input type="number" id="price" name="price">
+            </div>
+            <div class="formInput">
+              <label for="description"> Descripción </label>
+              <input type="text" id="description" name="description">
+            </div>
+            <div class="formInput">
+              <label for="category"> Categoría</label>
+              <input type="text" id="category" name="category">
+            </div>
+            <div class="formInput">
+              <label for="thumbnail"> Link </label>
+              <input type="text" id="thumbnail" name="thumbnail">
+            </div>
+            <button type="submit" class="btnSubmit"> Enviar </button>
+          </form>
+          <% } %>
+            <div class="links">
+              <% if (admin===true) { %>
+                <a href="/options"> Ir a opciones</a>
+                <% }%>
+                  <a href="/chat"> Ir al chat </a>
+                  <a href="/cart"> Ir al carrito</a>
+            </div>
+</body>
+</html>

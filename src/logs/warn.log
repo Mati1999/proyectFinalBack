@@ -1,0 +1,614 @@
+[2022-10-12T18:57:18.339] [WARN] development - Route: /fakeRoute Method: GET No Implemented
+[2022-10-12T19:30:53.655] [WARN] development - Route: /productos Method: GET No Implemented
+[2022-10-13T12:24:39.602] [ERROR] development - Error: TypeError: this.products.filterByCategory is not a function
+[2022-10-13T12:30:38.564] [ERROR] development - Error: ReferenceError: logger is not defined
+[2022-10-13T12:31:06.448] [ERROR] development - Error: TypeError: this.getByProperty is not a function
+[2022-10-13T12:31:15.987] [WARN] development - Route: /asdasdasd Method: GET No Implemented
+[2022-10-13T12:31:18.881] [ERROR] development - Error: TypeError: this.getByProperty is not a function
+[2022-10-13T12:31:51.264] [WARN] development - Route: /dasasd Method: GET No Implemented
+[2022-10-13T12:32:35.378] [WARN] development - Route: /asdasdasd Method: GET No Implemented
+[2022-10-13T12:32:43.538] [WARN] development - Route: /asdasdasd Method: GET No Implemented
+[2022-10-13T12:32:43.547] [WARN] development - Route: /asdasdsdasd Method: GET No Implemented
+[2022-10-13T12:33:21.912] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T12:34:26.454] [ERROR] development - Error: ReferenceError: logger is not defined
+[2022-10-13T12:35:11.001] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T12:35:21.899] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T12:35:21.910] [WARN] development - Route: /123 Method: GET No Implemented
+[2022-10-13T12:35:24.024] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T12:35:30.121] [WARN] development - Route: /productos Method: GET No Implemented
+[2022-10-13T12:35:34.022] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T12:35:34.026] [WARN] development - Route: /123 Method: GET No Implemented
+[2022-10-13T12:38:28.820] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T12:41:06.687] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T12:41:43.243] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T12:41:49.922] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T12:41:49.930] [WARN] development - Route: /qwe Method: GET No Implemented
+[2022-10-13T12:42:37.450] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T12:42:44.664] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T12:42:44.675] [WARN] development - Route: /asdasd Method: GET No Implemented
+[2022-10-13T12:53:21.590] [WARN] development - Route: /products Method: DELETE No Implemented
+[2022-10-13T12:54:13.362] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T12:55:31.769] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T12:55:41.769] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T12:55:41.777] [WARN] development - Route: /asdasda Method: GET No Implemented
+[2022-10-13T12:55:48.193] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T12:57:12.165] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T12:57:13.234] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T12:57:14.935] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T12:57:45.064] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T12:57:45.827] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T12:58:19.308] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T12:58:24.841] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T12:58:24.852] [WARN] development - Route: /qwe Method: GET No Implemented
+[2022-10-13T12:59:24.996] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T12:59:35.424] [WARN] development - Route: /un%20thumbnail Method: GET No Implemented
+[2022-10-13T13:00:54.720] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T13:01:00.948] [WARN] development - Route: /un%20thumbnail Method: GET No Implemented
+[2022-10-13T13:16:58.114] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T13:19:09.189] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T13:20:14.588] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T13:24:03.886] [WARN] development - Route: /ads Method: GET No Implemented
+[2022-10-13T13:24:59.988] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T13:25:45.787] [WARN] development - Route: /asd Method: GET No Implemented
+[2022-10-13T13:39:35.464] [WARN] development - Route: /loguin Method: GET No Implemented
+[2022-10-13T13:39:39.103] [WARN] development - Route: /logoutr Method: GET No Implemented
+[2022-10-13T13:49:47.554] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-13T13:49:52.241] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-13T13:49:53.098] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-13T13:50:29.878] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-13T13:52:16.971] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-13T13:52:46.879] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-13T13:54:07.441] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-13T13:54:58.630] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-13T13:55:09.455] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-13T13:55:40.328] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-13T13:56:34.725] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-13T13:57:45.170] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-13T13:58:24.480] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-13T13:58:36.530] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-13T14:03:23.596] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-13T14:05:06.988] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-13T14:05:09.842] [ERROR] development - Error: ReferenceError: Cannot access 'message' before initialization
+[2022-10-13T14:05:39.450] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-13T14:05:41.236] [ERROR] development - Error: ReferenceError: Cannot access 'message' before initialization
+[2022-10-13T14:07:40.149] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-13T14:10:59.379] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-13T14:12:19.525] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-13T14:13:23.422] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-13T14:14:39.926] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-13T14:15:29.698] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-13T14:15:44.887] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-13T14:16:15.306] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-13T14:33:17.995] [ERROR] development - Error: TypeError: sendEmailNewOrder is not a function
+[2022-10-13T14:57:23.493] [WARN] development - Route: /carts Method: GET No Implemented
+[2022-10-13T14:58:09.037] [ERROR] development - Error: TypeError: sendEmailNewOrder is not a function
+[2022-10-13T15:00:44.457] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'createNewOrder')
+[2022-10-13T15:01:43.460] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'createNewOrder')
+[2022-10-13T15:04:45.628] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'createNewOrder')
+[2022-10-13T15:05:44.155] [ERROR] development - Error: TypeError: sendEmailNewOrder is not a function
+[2022-10-13T15:06:17.558] [WARN] development - Route: /carts Method: GET No Implemented
+[2022-10-13T15:12:47.646] [ERROR] development - Error: TypeError: sendEmailNewOrder is not a function
+[2022-10-13T15:31:37.264] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'findUser')
+[2022-10-13T15:31:54.449] [ERROR] development - Error: ReferenceError: err is not defined
+[2022-10-13T15:33:11.003] [ERROR] development - Error: ReferenceError: err is not defined
+[2022-10-13T15:33:38.441] [ERROR] development - Error: ReferenceError: err is not defined
+[2022-10-13T15:33:59.832] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'addUser')
+[2022-10-13T15:34:09.078] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'findUser')
+[2022-10-13T15:34:51.003] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'addUser')
+[2022-10-13T15:34:53.463] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'findUser')
+[2022-10-13T15:37:50.133] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:39:39.983] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:40:50.134] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:41:31.003] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:42:34.472] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:42:47.688] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:42:50.301] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:43:28.052] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:44:29.130] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:45:05.914] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:45:23.353] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:46:53.666] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:48:23.402] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:50:05.530] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:50:06.645] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:51:00.908] [ERROR] development - Error: TypeError: user.toJSON is not a function
+[2022-10-13T15:59:08.670] [ERROR] development - Error: Error: Expected "payload" to be a plain object.
+[2022-10-13T16:00:52.187] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'createCart')
+[2022-10-13T16:00:53.905] [ERROR] development - Error: TypeError: user.toJSON is not a function
+[2022-10-13T16:02:16.637] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'createCart')
+[2022-10-13T16:07:39.481] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'createCart')
+[2022-10-13T16:08:01.477] [ERROR] development - Error: Error: Expected "payload" to be a plain object.
+[2022-10-13T16:08:14.960] [ERROR] development - Error: Error: Expected "payload" to be a plain object.
+[2022-10-13T16:10:19.384] [ERROR] development - Error: Error: Expected "payload" to be a plain object.
+[2022-10-13T16:11:08.350] [ERROR] development - Error: Error: Expected "payload" to be a plain object.
+[2022-10-13T16:18:46.800] [ERROR] development - Error: TypeError: this.array.find is not a function
+[2022-10-13T16:19:16.463] [ERROR] development - Error: TypeError: user.toJSON is not a function
+[2022-10-13T16:19:39.283] [ERROR] development - Error: TypeError: user.toJSON is not a function
+[2022-10-13T16:20:39.577] [ERROR] development - Error: Error: data and hash arguments required
+[2022-10-13T16:20:54.261] [ERROR] development - Error: Error: data and hash arguments required
+[2022-10-13T16:21:52.169] [ERROR] development - Error: Error: Expected "payload" to be a plain object.
+[2022-10-13T16:26:49.183] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'createCart')
+[2022-10-13T16:27:02.030] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getCartById')
+[2022-10-13T16:29:03.229] [WARN] development - Route: /ca Method: GET No Implemented
+[2022-10-13T16:29:23.435] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'createCart')
+[2022-10-13T16:31:28.858] [WARN] development - Route: /cart/6 Method: GET No Implemented
+[2022-10-13T16:35:34.398] [WARN] development - Route: /%20log Method: GET No Implemented
+[2022-10-15T00:37:32.095] [WARN] development - Route: /asdasdasd Method: GET No Implemented
+[2022-10-15T00:37:51.803] [WARN] development - Route: /asdasdasd Method: GET No Implemented
+[2022-10-15T00:38:11.408] [WARN] development - Route: /asdasdasd Method: GET No Implemented
+[2022-10-15T00:38:22.021] [WARN] development - Route: /asdasdasd Method: GET No Implemented
+[2022-10-15T00:38:32.862] [WARN] development - Route: /asdasdasd Method: GET No Implemented
+[2022-10-15T00:39:08.926] [WARN] development - Route: /asdasdasd Method: GET No Implemented
+[2022-10-15T00:39:14.131] [WARN] development - Route: /asdasdasd Method: GET No Implemented
+[2022-10-15T23:36:32.820] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'toJSON')
+[2022-10-15T23:50:40.935] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'toJSON')
+[2022-10-16T00:49:16.389] [WARN] development - Route: /cart/1?1=1 Method: GET No Implemented
+[2022-10-16T00:49:50.008] [WARN] development - Route: /cart/1?1=123 Method: GET No Implemented
+[2022-10-16T00:50:07.447] [WARN] development - Route: /cart/1?1=1 Method: GET No Implemented
+[2022-10-16T00:50:31.033] [WARN] development - Route: /cart/1?1=1 Method: GET No Implemented
+[2022-10-16T00:55:24.589] [WARN] development - Route: /1 Method: DELETE No Implemented
+[2022-10-16T00:55:31.957] [WARN] development - Route: /login Method: DELETE No Implemented
+[2022-10-16T21:30:52.887] [WARN] development - Route: /graphql Method: GET No Implemented
+[2022-10-16T21:52:39.309] [ERROR] development - Error: ReferenceError: response is not defined
+[2022-10-16T22:08:00.557] [WARN] development - Route: /unThuymbnail.com Method: GET No Implemented
+[2022-10-16T22:08:02.759] [WARN] development - Route: /graphql Method: GET No Implemented
+[2022-10-16T22:08:17.514] [WARN] development - Route: /unThuymbnail.com Method: GET No Implemented
+[2022-10-16T23:54:20.212] [ERROR] development - Error: ValidationError: email: Cast to string failed for value "{
+  email: 'facu@gmail.com',
+  products: [
+    [Object: null prototype] {
+      id: '1',
+      title: 'iPhone 14 pro',
+      price: 1339,
+      thumbnail: 'algo',
+      description: 'description',
+      category: 'iphone',
+      quantity: 1
+    }
+  ],
+  shippingAddress: 'fakeAddress',
+  total: 1339,
+  user: [Object: null prototype] {
+    email: 'facu@gmail.com',
+    currentCartId: 3,
+    address: 'fake'
+  }
+}" (type Object) at path "email", shippingAddress: Cast to string failed for value "{
+  fieldName: 'createNewOrder',
+  fieldNodes: [
+    {
+      kind: 'Field',
+      alias: undefined,
+      name: [Object],
+      arguments: [Array],
+      directives: [],
+      selectionSet: undefined,
+      loc: [Location]
+    }
+  ],
+  returnType: GraphQLScalarType {
+    name: 'ID',
+    description: 'The `ID` scalar type represents a unique identifier, often used to refetch an object or as key for a cache. The ID type appears in a JSON response as a String; however, it is not intended to be human-readable. When expected as an input type, any string (such as `"4"`) or integer (such as `4`) input value will be accepted as an ID.',
+    specifiedByURL: undefined,
+    serialize: [Function: serialize],
+    parseValue: [Function: parseValue],
+    parseLiteral: [Function: parseLiteral],
+    extensions: [Object: null prototype] {},
+    astNode: undefined,
+    extensionASTNodes: []
+  },
+  parentType: GraphQLObjectType {
+    name: 'Mutation',
+    description: undefined,
+    isTypeOf: undefined,
+    extensions: [Object: null prototype] {},
+    astNode: {
+      kind: 'ObjectTypeDefinition',
+      description: undefined,
+      name: [Object],
+      interfaces: [],
+      directives: [],
+      fields: [Array],
+      loc: [Location]
+    },
+    extensionASTNodes: [],
+    _fields: [Object: null prototype] {
+      createNewOrder: [Object],
+      deleteOrderById: [Object]
+    },
+    _interfaces: []
+  },
+  path: { prev: undefined, key: 'createNewOrder', typename: 'Mutation' },
+  schema: GraphQLSchema {
+    __validationErrors: [],
+    description: undefined,
+    extensions: [Object: null prototype] {},
+    astNode: undefined,
+    extensionASTNodes: [],
+    _queryType: GraphQLObjectType {
+      name: 'Query',
+      description: undefined,
+      isTypeOf: undefined,
+      extensions: [Object: null prototype] {},
+      astNode: [Object],
+      extensionASTNodes: [],
+      _fields: [Object: null prototype],
+      _interfaces: []
+    },
+    _mutationType: GraphQLObjectType {
+      name: 'Mutation',
+      description: undefined,
+      isTypeOf: undefined,
+      extensions: [Object: null prototype] {},
+      astNode: [Object],
+      extensionASTNodes: [],
+      _fields: [Object: null prototype],
+      _interfaces: []
+    },
+    _subscriptionType: undefined,
+    _directives: [
+      [GraphQLDirective],
+      [GraphQLDirective],
+      [GraphQLDirective],
+      [GraphQLDirective]
+    ],
+    _typeMap: [Object: null prototype] {
+      product: [GraphQLObjectType],
+      ID: [GraphQLScalarType],
+      String: [GraphQLScalarType],
+      Int: [GraphQLScalarType],
+      order: [GraphQLObjectType],
+      Query: [GraphQLObjectType],
+      productPayload: [GraphQLInputObjectType],
+      userPayload: [GraphQLInputObjectType],
+      Mutation: [GraphQLObjectType],
+      Boolean: [GraphQLScalarType],
+      __Schema: [GraphQLObjectType],
+      __Type: [GraphQLObjectType],
+      __TypeKind: [GraphQLEnumType],
+      __Field: [GraphQLObjectType],
+      __InputValue: [GraphQLObjectType],
+      __EnumValue: [GraphQLObjectType],
+      __Directive: [GraphQLObjectType],
+      __DirectiveLocation: [GraphQLEnumType]
+    },
+    _subTypeMap: [Object: null prototype] {},
+    _implementationsMap: [Object: null prototype] {}
+  },
+  fragments: [Object: null prototype] {},
+  rootValue: {
+    createNewOrder: [AsyncFunction: createNewOrder],
+    getOrderById: [AsyncFunction: getOrderById],
+    deleteOrderById: [AsyncFunction: deleteOrderById]
+  },
+  operation: {
+    kind: 'OperationDefinition',
+    operation: 'mutation',
+    name: undefined,
+    variableDefinitions: [],
+    directives: [],
+    selectionSet: { kind: 'SelectionSet', selections: [Array], loc: [Location] },
+    loc: Location {
+      start: 0,
+      end: 278,
+      startToken: [Token],
+      endToken: [Token],
+      source: [Source]
+    }
+  },
+  variableValues: {}
+}" (type Object) at path "shippingAddress"
+[2022-10-17T22:55:07.405] [WARN] development - Route: /graphql/users Method: GET No Implemented
+[2022-10-17T22:58:11.415] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'toJSON')
+[2022-10-17T23:12:31.701] [ERROR] development - Error: Error: data and salt arguments required
+[2022-10-17T23:13:50.663] [ERROR] development - Error: Error: data and salt arguments required
+[2022-10-17T23:14:06.732] [ERROR] development - Error: Error: data and salt arguments required
+[2022-10-17T23:14:34.219] [ERROR] development - Error: Error: data and salt arguments required
+[2022-10-17T23:14:41.227] [ERROR] development - Error: Error: data and salt arguments required
+[2022-10-17T23:14:57.780] [ERROR] development - Error: Error: data and salt arguments required
+[2022-10-18T00:00:46.559] [WARN] development - Route: /graphql Method: GET No Implemented
+[2022-10-18T00:00:53.644] [WARN] development - Route: /graphql/carts Method: GET No Implemented
+[2022-10-19T18:46:35.441] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T18:46:52.162] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'toJSON')
+[2022-10-19T18:46:52.561] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T18:47:11.316] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T18:47:12.827] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T18:47:33.641] [ERROR] development - Error: ReferenceError: idCart is not defined
+[2022-10-19T18:47:33.907] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T18:49:21.387] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T18:49:31.519] [ERROR] development - Error: ReferenceError: idCart is not defined
+[2022-10-19T18:49:31.776] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T18:53:36.955] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T18:57:22.128] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T18:57:33.264] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T18:57:56.956] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T18:58:10.064] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T18:58:13.377] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T18:58:15.803] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T18:58:17.723] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T18:58:19.466] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T18:59:51.416] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:00:03.909] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:00:06.006] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:00:06.854] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:00:09.806] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:11:49.795] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:11:56.491] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'toJSON')
+[2022-10-19T19:11:56.777] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:11:58.251] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:11:59.256] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:12:05.805] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:12:10.643] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:14:17.055] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:14:27.807] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:15:31.539] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:15:43.987] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:15:52.384] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:15:55.202] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:15:56.804] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:15:57.659] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:16:12.089] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:16:18.791] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:16:23.789] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:16:28.982] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:16:30.350] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:16:32.575] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:16:38.204] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:16:43.626] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:16:45.552] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:16:49.381] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:16:54.340] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:16:58.941] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:17:00.177] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:17:31.622] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:17:33.241] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:17:55.717] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:17:57.483] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:17:59.934] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:31:04.780] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:31:07.871] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:31:35.469] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:32:03.032] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:32:07.301] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:34:46.395] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:34:47.816] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:39:43.100] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:39:45.406] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:40:09.099] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:41:03.615] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:41:57.203] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:42:02.509] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:51:29.068] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:51:34.928] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:51:36.355] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:57:24.793] [WARN] production - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:57:33.437] [WARN] production - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:57:38.120] [WARN] production - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:57:40.200] [WARN] production - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:57:42.145] [WARN] production - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:57:46.328] [WARN] production - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:57:51.270] [WARN] production - Route: /favicon.ico Method: GET No Implemented
+[2022-10-19T19:57:52.870] [WARN] production - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T12:50:43.325] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T12:51:08.326] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:02:41.540] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:02:44.576] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:02:59.031] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:03:02.528] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:03:06.471] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:03:15.765] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:04:13.065] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:05:09.638] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:05:22.193] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:05:26.496] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:05:28.770] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:06:12.907] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:06:17.542] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:06:20.322] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:06:22.461] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:07:18.261] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:07:20.243] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:07:22.678] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:07:28.763] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:07:44.451] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:07:46.514] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:07:51.561] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:07:53.997] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:07:55.514] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:09:47.497] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:10:01.947] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:10:41.585] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:11:13.184] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:12:07.464] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:13:21.070] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:14:20.264] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:15:11.201] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:15:44.940] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:16:37.666] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:18:46.111] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:19:09.508] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:20:13.855] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:20:15.629] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:21:50.434] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:21:57.766] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:22:03.072] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:22:46.739] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:24:03.451] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:25:02.939] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:25:59.815] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:26:31.939] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:26:47.289] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:26:52.346] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:26:56.784] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:27:00.292] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:27:01.842] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:27:07.660] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:28:50.697] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:29:12.567] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:29:35.617] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:29:58.783] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:30:50.601] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:31:14.736] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:31:45.628] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:32:11.236] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:32:20.121] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:33:41.765] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:34:11.259] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:34:39.830] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:34:42.575] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:34:44.351] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:36:05.855] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:36:19.869] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:36:40.213] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:37:05.455] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:38:03.862] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:38:30.960] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:41:04.832] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:41:29.453] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:41:38.523] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:42:24.786] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:42:32.812] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:42:45.182] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:42:54.624] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:43:07.059] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:43:21.262] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:43:28.920] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:43:49.492] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:43:55.417] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:44:06.859] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:44:11.506] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:44:13.841] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:44:17.238] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:44:22.492] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:45:11.978] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:45:33.032] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:45:54.148] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:45:57.849] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:48:50.075] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:49:20.576] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:49:24.328] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:49:56.761] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:49:58.308] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:50:33.588] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:51:40.187] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:52:14.650] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:52:16.470] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:52:55.003] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:52:56.437] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:53:26.104] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:53:27.745] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:53:39.187] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:53:40.664] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:53:42.081] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:53:45.932] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:53:48.941] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:54:15.040] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:54:21.524] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:54:25.436] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:54:27.595] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:54:54.838] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:55:01.009] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:55:03.995] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:55:22.816] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:55:23.841] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:56:13.048] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:57:41.612] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:57:43.381] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:57:59.186] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:58:08.916] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:58:14.852] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:58:18.598] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:58:45.320] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:58:52.588] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:58:54.685] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:58:56.156] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:59:00.369] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:59:04.273] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:59:05.933] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:59:08.083] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:59:22.723] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:59:27.301] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T13:59:29.873] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:01:13.405] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:02:46.933] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:02:52.824] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:07:12.915] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:07:15.856] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:07:20.501] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:07:22.324] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:07:41.730] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:07:44.433] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:08:54.463] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:09:06.067] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:09:08.169] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:09:10.003] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:09:57.341] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:10:23.040] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:10:43.976] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:10:51.365] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:10:56.132] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:11:00.064] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:11:02.064] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:11:49.917] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:12:12.644] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:12:14.166] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:12:27.041] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:12:34.729] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'products')
+[2022-10-20T14:12:34.879] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:12:38.679] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'products')
+[2022-10-20T14:12:38.799] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:12:40.070] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:12:42.272] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:13:00.254] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:13:02.045] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:13:05.806] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:13:07.816] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:13:12.164] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:13:17.314] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:13:18.938] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:13:20.242] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:13:22.116] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:13:26.384] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:13:28.917] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:13:30.096] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:13:35.601] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:13:37.186] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:13:38.935] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:13:41.368] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:13:45.056] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:13:46.546] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:13:49.684] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:13:51.186] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:13:56.934] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:13:58.488] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:14:11.168] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:14:28.429] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:14:39.322] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:14:45.523] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:14:49.688] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:14:51.078] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:14:56.826] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:15:15.213] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:15:19.233] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:15:20.503] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:15:23.970] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:15:28.270] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:15:29.435] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:15:51.731] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:19:59.716] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:20:01.910] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:20:06.356] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:20:08.557] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:20:10.663] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:20:12.013] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:20:14.691] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:42:41.677] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:42:46.255] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:42:47.369] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:42:50.258] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:46:29.091] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T14:46:35.397] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T15:25:33.901] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T15:28:22.903] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T15:28:50.734] [WARN] development - Route: /favicon.ico Method: GET No Implemented
+[2022-10-20T15:29:03.902] [WARN] development - Route: /favicon.ico Method: GET No Implemented

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cart</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+  <link href="/css/styles.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+  <div class="container contenedorCarrito">
+    <div class="navBar">
+      <h1>Detalle del carrito</h1>
+      <a href="/logout"> Deslogearse </a>
+    </div>
+
+    <% if (cart.products.length===0) { %>
+      <h2>Tu carrito está vacío</h2>
+      <% } else { %>
+        <h2> Tu productos:</h2>
+        <div class="productsContainer">
+          <div class="productContainer productContainerTitles">
+            <div>Nombre del producto</div>
+            <div>Precio</div>
+            <div>Cantidad</div>
+            <div>Imagen</div>
+          </div>
+          <% for(let i=0; i < cart.products.length; i++) { %>
+            <div class="productContainer">
+              <div>
+                <%=cart.products[i].title %>
+              </div>
+              <div>
+                <%=cart.products[i].price %>
+              </div>
+              <div>
+                <%=cart.products[i].quantity %>
+              </div>
+              <div>
+                <img src="<%=cart.products[i].thumbnail %>" alt="<%=cart.products[i].title %>" class="img">
+              </div>
+            </div>
+            <% }} %>
+
+        </div>
+        <h3>Total: <%=cart.total%>
+        </h3>
+
+        <form action="/orders" method="post">
+          <button type="submit" class="btnSubmit"> Completar compra </button>
+        </form>
+
+        <div class="links">
+          <a class="irAProductos" href="/products">Ir a productos</a>
+        </div>
+  </div>
+</body>
+</html>

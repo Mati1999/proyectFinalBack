@@ -1,0 +1,217 @@
+[2022-10-13T12:24:39.602] [ERROR] development - Error: TypeError: this.products.filterByCategory is not a function
+[2022-10-13T12:30:38.564] [ERROR] development - Error: ReferenceError: logger is not defined
+[2022-10-13T12:31:06.448] [ERROR] development - Error: TypeError: this.getByProperty is not a function
+[2022-10-13T12:31:18.881] [ERROR] development - Error: TypeError: this.getByProperty is not a function
+[2022-10-13T12:34:26.454] [ERROR] development - Error: ReferenceError: logger is not defined
+[2022-10-13T14:05:09.842] [ERROR] development - Error: ReferenceError: Cannot access 'message' before initialization
+[2022-10-13T14:05:41.236] [ERROR] development - Error: ReferenceError: Cannot access 'message' before initialization
+[2022-10-13T14:33:17.995] [ERROR] development - Error: TypeError: sendEmailNewOrder is not a function
+[2022-10-13T14:58:09.037] [ERROR] development - Error: TypeError: sendEmailNewOrder is not a function
+[2022-10-13T15:00:44.457] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'createNewOrder')
+[2022-10-13T15:01:43.460] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'createNewOrder')
+[2022-10-13T15:04:45.628] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'createNewOrder')
+[2022-10-13T15:05:44.155] [ERROR] development - Error: TypeError: sendEmailNewOrder is not a function
+[2022-10-13T15:12:47.646] [ERROR] development - Error: TypeError: sendEmailNewOrder is not a function
+[2022-10-13T15:31:37.264] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'findUser')
+[2022-10-13T15:31:54.449] [ERROR] development - Error: ReferenceError: err is not defined
+[2022-10-13T15:33:11.003] [ERROR] development - Error: ReferenceError: err is not defined
+[2022-10-13T15:33:38.441] [ERROR] development - Error: ReferenceError: err is not defined
+[2022-10-13T15:33:59.832] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'addUser')
+[2022-10-13T15:34:09.078] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'findUser')
+[2022-10-13T15:34:51.003] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'addUser')
+[2022-10-13T15:34:53.463] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'findUser')
+[2022-10-13T15:37:50.133] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:39:39.983] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:40:50.134] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:41:31.003] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:42:34.472] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:42:47.688] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:42:50.301] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:43:28.052] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:44:29.130] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:45:05.914] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:45:23.353] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:46:53.666] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:48:23.402] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:50:05.530] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:50:06.645] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getAllUsers')
+[2022-10-13T15:51:00.908] [ERROR] development - Error: TypeError: user.toJSON is not a function
+[2022-10-13T15:59:08.670] [ERROR] development - Error: Error: Expected "payload" to be a plain object.
+[2022-10-13T16:00:52.187] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'createCart')
+[2022-10-13T16:00:53.905] [ERROR] development - Error: TypeError: user.toJSON is not a function
+[2022-10-13T16:02:16.637] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'createCart')
+[2022-10-13T16:07:39.481] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'createCart')
+[2022-10-13T16:08:01.477] [ERROR] development - Error: Error: Expected "payload" to be a plain object.
+[2022-10-13T16:08:14.960] [ERROR] development - Error: Error: Expected "payload" to be a plain object.
+[2022-10-13T16:10:19.384] [ERROR] development - Error: Error: Expected "payload" to be a plain object.
+[2022-10-13T16:11:08.350] [ERROR] development - Error: Error: Expected "payload" to be a plain object.
+[2022-10-13T16:18:46.800] [ERROR] development - Error: TypeError: this.array.find is not a function
+[2022-10-13T16:19:16.463] [ERROR] development - Error: TypeError: user.toJSON is not a function
+[2022-10-13T16:19:39.283] [ERROR] development - Error: TypeError: user.toJSON is not a function
+[2022-10-13T16:20:39.577] [ERROR] development - Error: Error: data and hash arguments required
+[2022-10-13T16:20:54.261] [ERROR] development - Error: Error: data and hash arguments required
+[2022-10-13T16:21:52.169] [ERROR] development - Error: Error: Expected "payload" to be a plain object.
+[2022-10-13T16:26:49.183] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'createCart')
+[2022-10-13T16:27:02.030] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'getCartById')
+[2022-10-13T16:29:23.435] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'createCart')
+[2022-10-15T23:36:32.820] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'toJSON')
+[2022-10-15T23:50:40.935] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'toJSON')
+[2022-10-16T21:52:39.309] [ERROR] development - Error: ReferenceError: response is not defined
+[2022-10-16T23:54:20.212] [ERROR] development - Error: ValidationError: email: Cast to string failed for value "{
+  email: 'facu@gmail.com',
+  products: [
+    [Object: null prototype] {
+      id: '1',
+      title: 'iPhone 14 pro',
+      price: 1339,
+      thumbnail: 'algo',
+      description: 'description',
+      category: 'iphone',
+      quantity: 1
+    }
+  ],
+  shippingAddress: 'fakeAddress',
+  total: 1339,
+  user: [Object: null prototype] {
+    email: 'facu@gmail.com',
+    currentCartId: 3,
+    address: 'fake'
+  }
+}" (type Object) at path "email", shippingAddress: Cast to string failed for value "{
+  fieldName: 'createNewOrder',
+  fieldNodes: [
+    {
+      kind: 'Field',
+      alias: undefined,
+      name: [Object],
+      arguments: [Array],
+      directives: [],
+      selectionSet: undefined,
+      loc: [Location]
+    }
+  ],
+  returnType: GraphQLScalarType {
+    name: 'ID',
+    description: 'The `ID` scalar type represents a unique identifier, often used to refetch an object or as key for a cache. The ID type appears in a JSON response as a String; however, it is not intended to be human-readable. When expected as an input type, any string (such as `"4"`) or integer (such as `4`) input value will be accepted as an ID.',
+    specifiedByURL: undefined,
+    serialize: [Function: serialize],
+    parseValue: [Function: parseValue],
+    parseLiteral: [Function: parseLiteral],
+    extensions: [Object: null prototype] {},
+    astNode: undefined,
+    extensionASTNodes: []
+  },
+  parentType: GraphQLObjectType {
+    name: 'Mutation',
+    description: undefined,
+    isTypeOf: undefined,
+    extensions: [Object: null prototype] {},
+    astNode: {
+      kind: 'ObjectTypeDefinition',
+      description: undefined,
+      name: [Object],
+      interfaces: [],
+      directives: [],
+      fields: [Array],
+      loc: [Location]
+    },
+    extensionASTNodes: [],
+    _fields: [Object: null prototype] {
+      createNewOrder: [Object],
+      deleteOrderById: [Object]
+    },
+    _interfaces: []
+  },
+  path: { prev: undefined, key: 'createNewOrder', typename: 'Mutation' },
+  schema: GraphQLSchema {
+    __validationErrors: [],
+    description: undefined,
+    extensions: [Object: null prototype] {},
+    astNode: undefined,
+    extensionASTNodes: [],
+    _queryType: GraphQLObjectType {
+      name: 'Query',
+      description: undefined,
+      isTypeOf: undefined,
+      extensions: [Object: null prototype] {},
+      astNode: [Object],
+      extensionASTNodes: [],
+      _fields: [Object: null prototype],
+      _interfaces: []
+    },
+    _mutationType: GraphQLObjectType {
+      name: 'Mutation',
+      description: undefined,
+      isTypeOf: undefined,
+      extensions: [Object: null prototype] {},
+      astNode: [Object],
+      extensionASTNodes: [],
+      _fields: [Object: null prototype],
+      _interfaces: []
+    },
+    _subscriptionType: undefined,
+    _directives: [
+      [GraphQLDirective],
+      [GraphQLDirective],
+      [GraphQLDirective],
+      [GraphQLDirective]
+    ],
+    _typeMap: [Object: null prototype] {
+      product: [GraphQLObjectType],
+      ID: [GraphQLScalarType],
+      String: [GraphQLScalarType],
+      Int: [GraphQLScalarType],
+      order: [GraphQLObjectType],
+      Query: [GraphQLObjectType],
+      productPayload: [GraphQLInputObjectType],
+      userPayload: [GraphQLInputObjectType],
+      Mutation: [GraphQLObjectType],
+      Boolean: [GraphQLScalarType],
+      __Schema: [GraphQLObjectType],
+      __Type: [GraphQLObjectType],
+      __TypeKind: [GraphQLEnumType],
+      __Field: [GraphQLObjectType],
+      __InputValue: [GraphQLObjectType],
+      __EnumValue: [GraphQLObjectType],
+      __Directive: [GraphQLObjectType],
+      __DirectiveLocation: [GraphQLEnumType]
+    },
+    _subTypeMap: [Object: null prototype] {},
+    _implementationsMap: [Object: null prototype] {}
+  },
+  fragments: [Object: null prototype] {},
+  rootValue: {
+    createNewOrder: [AsyncFunction: createNewOrder],
+    getOrderById: [AsyncFunction: getOrderById],
+    deleteOrderById: [AsyncFunction: deleteOrderById]
+  },
+  operation: {
+    kind: 'OperationDefinition',
+    operation: 'mutation',
+    name: undefined,
+    variableDefinitions: [],
+    directives: [],
+    selectionSet: { kind: 'SelectionSet', selections: [Array], loc: [Location] },
+    loc: Location {
+      start: 0,
+      end: 278,
+      startToken: [Token],
+      endToken: [Token],
+      source: [Source]
+    }
+  },
+  variableValues: {}
+}" (type Object) at path "shippingAddress"
+[2022-10-17T22:58:11.415] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'toJSON')
+[2022-10-17T23:12:31.701] [ERROR] development - Error: Error: data and salt arguments required
+[2022-10-17T23:13:50.663] [ERROR] development - Error: Error: data and salt arguments required
+[2022-10-17T23:14:06.732] [ERROR] development - Error: Error: data and salt arguments required
+[2022-10-17T23:14:34.219] [ERROR] development - Error: Error: data and salt arguments required
+[2022-10-17T23:14:41.227] [ERROR] development - Error: Error: data and salt arguments required
+[2022-10-17T23:14:57.780] [ERROR] development - Error: Error: data and salt arguments required
+[2022-10-19T18:46:52.162] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'toJSON')
+[2022-10-19T18:47:33.641] [ERROR] development - Error: ReferenceError: idCart is not defined
+[2022-10-19T18:49:31.519] [ERROR] development - Error: ReferenceError: idCart is not defined
+[2022-10-19T19:11:56.491] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'toJSON')
+[2022-10-20T14:12:34.729] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'products')
+[2022-10-20T14:12:38.679] [ERROR] development - Error: TypeError: Cannot read properties of undefined (reading 'products')

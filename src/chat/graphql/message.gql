@@ -1,0 +1,21 @@
+type message {
+  email: String!,
+  type:String,
+  date:String,
+  message:String
+}
+
+type Query {
+  getAllMessages: [message]
+  getMessagesByEmail(email:String):[message]
+}
+
+input addMessagePayload{
+  email:String!,
+  type:String,
+  message:String
+}
+
+type Mutation{
+  addMessage(args:addMessagePayload) : message
+}

@@ -1,0 +1,29 @@
+type product {
+  id: ID!,
+  title:String,
+  price:Int,
+  thumbnail:String,
+  description:String,
+  category:String,
+  quantity:Int
+}
+
+type cart {
+  id: ID!,
+  email:String,
+  date:String,
+  products:[product],
+  shippingAddress:String,
+  total:Int
+}
+
+type Query{ 
+  getCart(id:ID) : cart
+}
+
+type Mutation { 
+  createCart (email:String, shippingAddress:String) : Int
+  addProductToCart(idCart:Int, idProduct:Int, quantity:Int) : String
+  deleteProductFromCart(idCart:Int, idProduct:Int) : String
+  deleteCart(id:ID): String
+}
