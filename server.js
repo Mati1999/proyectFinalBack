@@ -13,8 +13,10 @@ const graphqlChatRouter = require("./src/chat/graphql/graphqlChatRouter");
 const graphqlOrdersRouter = require("./src/orders/graphql/graphqlOrdersRouter");
 const graphqlUsersRouter = require("./src/users/graphql/graphqlUserRouter");
 const graphqlCartsRouter = require("./src/carts/graphql/graphqlCartsRouter");
-
+const morgan = require('morgan')
 const app = express()
+
+app.use(morgan('combined'))
 
 const http = require('http');
 const server = http.createServer(app);
