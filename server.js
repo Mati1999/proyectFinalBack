@@ -51,7 +51,7 @@ io.on('connection',(socket) => {
   socketServer(io,socket)
 });
 app.get("/favicon.ico",((req,res) => {
-  res.sendFile("./public/bootstrap.ico")
+  res.sendFile("./public/favicon.ico")
 }))
 
 app.use(routes.error)
