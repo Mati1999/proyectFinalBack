@@ -10,7 +10,7 @@ const { authenticateToken,isAdmin } = require("../../middlewares/auth");
 
 cartRouter.get("/",authenticateToken,async (req,res) => {
   const id = req.user.currentCartId
-  const cart = await service.getCart(id)
+  const cart = (await service.getCart(id) === undefined) ? { products: [] } : await service.getCart(id)
   res.render("cart.ejs",{ cart })
 })
 
