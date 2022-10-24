@@ -8,37 +8,29 @@ const { registration,authenticationCheck,authenticateToken } = require("../../mi
 const UserService = require("../service/UserService");
 const userService = new UserService(process.env.DATA_BASE_USERS)
 
-userRouter.get("/",
-  //  authenticateToken ,
-  (req,res) => {
-    res.redirect("/products")
-  })
+userRouter.get("/",authenticateToken,(req,res) => {
+  res.redirect("/products")
+})
 
-userRouter.get("/register",
-  //  authenticateToken, 
-  (req,res) => {
-    res.render("register.ejs")
-  })
+userRouter.get("/register",authenticateToken,(req,res) => {
+  res.render("register.ejs")
+})
 
 userRouter.post("/register",registration,(req,res) => {
   res.redirect("/products")
 })
 
-userRouter.get("/login",
-  // authenticateToken, 
-  (req,res) => {
-    res.render("login.ejs")
-  })
+userRouter.get("/login",authenticateToken,(req,res) => {
+  res.render("login.ejs")
+})
 
 userRouter.post("/login",authenticationCheck,(req,res) => {
   res.redirect("/products")
 })
 
-userRouter.get("/logout",
-  // authenticateToken,
-  (req,res) => {
-    res.clearCookie("token")
-    res.redirect("/login")
-  })
+userRouter.get("/logout",authenticateToken,(req,res) => {
+  res.clearCookie("token")
+  res.redirect("/login")
+})
 
 module.exports = userRouter
