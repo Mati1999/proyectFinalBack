@@ -1,4 +1,4 @@
-const bcrypt = require("bcrypt");
+const bcrypt = require("bcryptjs");
 const UsersDaoFactory = require("../daos/DaoFactoryUsers");
 const logger = require("../../logs/logger");
 const { sendEmailNewUser } = require("../../nodemailer/helpers/helpers")
@@ -9,24 +9,24 @@ const cartService = new CartService(process.env.DATA_BASE_CARTS);
 const daoFactory = UsersDaoFactory.getInstance()
 
 class UserService {
-  constructor(type){
+  constructor(type) {
     this.users = daoFactory.create(type)
   }
 
-  async addNewUser (user) {
-    try{
+  async addNewUser(user) {
+    try {
       const hashedPasword = await bcrypt.hash(user.password,10)
       user.password = hashedPasword
-      const idCart = await cartService.createCart(user.email, user.address)
-      user.currentCartId = idCart 
-      sendEmailNewUser(process.env.GMAIL_ADMIN, process.env.GMAIL_RECIEVER, user )
+      const idCart = await cartService.createCart(user.email,user.address)
+      user.currentCartId = idCart
+      sendEmailNewUser(process.env.GMAIL_ADMIN,process.env.GMAIL_RECIEVER,user)
       return await this.users.addUser(user)
-    } catch(err) {
+    } catch (err) {
       logger.error(`Error: ${err}`)
     }
   }
-  
-  async findUser (email) {
+
+  async findUser(email) {
     try {
       return await this.users.findUser(email)
     } catch (err) {
@@ -34,9 +34,9 @@ class UserService {
     }
   }
 
-  async updateCurrentCartId(email, idCart){
+  async updateCurrentCartId(email,idCart) {
     try {
-      const response = await this.users.modifyUser(email, {currentCartId: idCart})
+      const response = await this.users.modifyUser(email,{ currentCartId: idCart })
       console.log(response);
       if (!response.matched) return `there is no user with the email ${email}`
       if (!response.modified) return `idCart:${idCart} was the same as the current one`
@@ -47,9 +47,9 @@ class UserService {
   }
 
   async getAllUsers() {
-    try{
+    try {
       return this.users.getAllUsers()
-    } catch(err){
+    } catch (err) {
       console.log(err);
       logger.error(`Error: ${err}`)
     }
